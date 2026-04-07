@@ -11,7 +11,7 @@ export default function OnboardingPage() {
         {/* 1. Illustration (Image) */}
         <div className="w-full flex justify-center mt-8 mb-10">
           <img 
-            src="https://storyset.com/api/scripts/nodes/download/illustration/online-coaching.png" 
+            src="/human-removebg-preview.png" 
             alt="Coaching Illustration" 
             className="w-56 h-auto object-contain"
           />
