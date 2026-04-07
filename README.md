@@ -12,7 +12,8 @@ A modern, high-performance, and responsive user interface built for the ZephyraT
 
   - **🌐 Frontend Repository:** [GitHub Repo](https://github.com/tharu-2003/Zephyratechtask-Frontend.git)
   - **⚙️ Backend Repository:** [GitHub Repo](https://github.com/tharu-2003/Zephyratechtask-Backend.git)
-  - **🚀 Live Demo:** [Insert your Vercel Link Here]
+  - **🚀 Live Demo (Frontend):** [https://zephyratechtask-frontend.vercel.app/](https://zephyratechtask-frontend.vercel.app/)
+  - **📡 Live API (Backend):** [https://zephyratechtask-backend.onrender.com](https://zephyratechtask-backend.onrender.com)
 
 -----
 
